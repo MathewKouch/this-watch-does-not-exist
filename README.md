@@ -3,7 +3,7 @@ Fake watches generated with custom StyleGAN - ADA
 
 A custom stylegan1 model trained with gradient penalty and adaptive discriminator augmentations on a custom and curated dataset of watch images I scrapped from ecommerce websites. 
 
-Achieved FID of 28.
+Trained on A40 GPU with 48GB for a week and achieved FID of 28.
 
 Link to dataset:https://www.kaggle.com/datasets/mathewkouch/a-dataset-of-watches
 
